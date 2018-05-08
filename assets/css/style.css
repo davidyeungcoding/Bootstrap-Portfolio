@@ -1,0 +1,40 @@
+.navbar-brand {
+    font-size: 25px;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    float: left;
+    margin-right: 1em;
+}
+
+ul.responsibilities {
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+.btn {
+    background-color: #343a40;
+    padding: .75em 1.5em;
+}
+
+.btn:hover {
+    background-color: #64788C;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-top: 5px solid #64788C;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
